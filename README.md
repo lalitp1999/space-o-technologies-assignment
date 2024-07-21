@@ -33,3 +33,7 @@ http://127.0.0.1:8000/api-tester
 
 # Check test case. I have created a test case for news."
 php artisan test
+
+# Login details 
+email= test@example.com
+password = test@123
