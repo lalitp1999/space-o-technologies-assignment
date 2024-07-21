@@ -1,4 +1,4 @@
-
+# I used laravel react project 
 # Clone the repository:
 https://github.com/lalitp1999/space-o-technologies-assignment.git
 
@@ -31,5 +31,5 @@ npm run dev
 # If any have test api then open this link becuase I have used to api tester.
 http://127.0.0.1:8000/api-tester
 
-# check Test Case I have create test case 
+# Check test case. I have created a test case for news."
 php artisan test
