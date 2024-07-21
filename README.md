@@ -19,7 +19,7 @@ NEWSAPI_KEY=17ef36b0ce904ad8915b32687216cd67
 # Run the migrations:
 php artisan migrate --seed
 
-# node module dependencies
+# Install node module dependencies
 npm install
 
 # Run project Laravel 
